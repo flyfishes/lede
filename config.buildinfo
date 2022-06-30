@@ -1,4 +1,5 @@
 CONFIG_TARGET_ipq807x=y
+CONFIG_TARGET_ipq807x_generic=y
 # CONFIG_GRUB_EFI_IMAGES is not set
 CONFIG_PACKAGE_6in4=y
 # CONFIG_PACKAGE_boost is not set
