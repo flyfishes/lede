@@ -87,6 +87,7 @@ jobs:
           echo "show config ax6"
           cat .config
           make defconfig
+          echo "show config ax6 after make defconfig"
           cat .config
 
       - name: Make download
